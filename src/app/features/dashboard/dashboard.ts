@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {email, form, FormField, minLength, required} from '@angular/forms/signals';
 
 @Component({
   selector: 'app-dashboard',
